@@ -1,4 +1,4 @@
-import {Service} from "@node-mvc-decorator/core";
+import {Service} from '@node-mvc-decorator/core';
 
 @Service
 export class Service2 {
